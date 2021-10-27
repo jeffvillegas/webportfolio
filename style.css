@@ -272,6 +272,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
+	color: white;
 }
 #experiences .experience-top {
 	max-width: 500px;
@@ -316,7 +317,7 @@ p {
 	margin-bottom: 20px;
 }
 #experience .experience-item h2 {
-	font-size: 2rem;
+	font-size: 20px;
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
