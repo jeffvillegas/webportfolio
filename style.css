@@ -3,7 +3,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	
+
 }
 html {
 	font-size: 10px;
@@ -201,7 +201,7 @@ p {
 
 /* home Section */
 #home {
-	background-image: url(./img/hero-bg.png);
+	background-image: url('./img/0wj1biqkf41/fluid.html');
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -829,8 +829,8 @@ label.fcf-label {
 
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
-}  
-	
+}
+
 	/* End contact  */
 }
 /* End Media Query For Tablet */
